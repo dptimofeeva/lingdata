@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-26T20:28:25+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-26T20:40:19+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -64,7 +64,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="112559"/>
         <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="112934"/>
         <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="112934"/>
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="113024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="113071"/>
         <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="113089"/>
         <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="113310"/>
         <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="113310"/>
@@ -8812,8 +8812,8 @@
         LINGUISTIC_TYPE_REF="gesture_organs"
         PARENT_REF="gesture@eab1964f" PARTICIPANT="@eab1964f" TIER_ID="gestActiveOrgan@eab1964f">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a655" ANNOTATION_REF="a621" CVE_REF="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
-                <ANNOTATION_VALUE>body</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a655" ANNOTATION_REF="a621" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23375,7 +23375,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a637" ANNOTATION_REF="a594">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23425,7 +23425,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a644" ANNOTATION_REF="a617">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23465,7 +23465,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a650" ANNOTATION_REF="a611">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23475,7 +23475,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a652" ANNOTATION_REF="a613">
-                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поисковый жест: поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
